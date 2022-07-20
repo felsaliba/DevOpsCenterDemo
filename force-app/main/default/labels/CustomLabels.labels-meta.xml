@@ -309,4 +309,11 @@
 
               Please confirm if you would like to continue</value>
     </labels>
+    <labels>
+        <fullName>Test_Deployment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Test Deployment</shortDescription>
+        <value>This is a label for deployment testing</value>
+    </labels>
 </CustomLabels>
