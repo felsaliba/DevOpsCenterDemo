@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Complimentary_Lifestyle_Header</fullName>
+        <categories>My Account</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Complimentary Lifestyle Header</shortDescription>
+        <value>Our gift to you – a year’s subscription to one of our specialist magazines. It’s our way of saying thanks for being a Which? member.</value>
+    </labels>
+    <labels>
+        <fullName>Downgrade_have_you_heard_about</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>downgrade journey</shortDescription>
+        <value>We independently buy, test and review thousands of products, from major purchases like TVs, laptops,
+                    cookers and washing machines to everyday essentials like batteries, lightbulbs, printer inks,
+                    sausages and dishwasher tablets – over time our recommendations could really save you time, money
+                    and effort</value>
+    </labels>
+    <labels>
+        <fullName>Much_more_than_product_reviews</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>downgrade journey</shortDescription>
+        <value>We’re the UK’s consumer champion. By keeping your subscription going you’ll be helping to 
+            fund our charity to fight for what’s right for consumers 
+            - campaigns and free advice that make life simpler, fairer and safer for everyone.</value>
+    </labels>
+    <labels>
+        <fullName>Must_Include_Subscription_Key</fullName>
+        <categories>Zuora Integration</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Must Include Subscription Key</shortDescription>
+        <value>You must include a non-null subscription key when cancelling a subscription.</value>
+    </labels>
+    <labels>
+        <fullName>Payment_Card_No_Subscription</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Payment Card No Subscription</shortDescription>
+        <value>This subscription is not eligible for an automated refund as it is more than 14 days old.</value>
+    </labels>
+    <labels>
+        <fullName>Payment_Card_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Payment Card URL</shortDescription>
+        <value>https://signup.which.co.uk/update-payment?id=</value>
+    </labels>
+    <labels>
+        <fullName>Payment_Card_email_sendin</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>PaymentCard email sending</shortDescription>
+        <value>Thank you. A link to the Update Card Payment page will be sent shortly.</value>
+    </labels>
+    <labels>
+        <fullName>Payment_Card_email_sent</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Payment Card email sent</shortDescription>
+        <value>An email with a valid link has already been sent.</value>
+    </labels>
+    <labels>
+        <fullName>Prechat</fullName>
+        <categories>Prechat</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Prechat</shortDescription>
+        <value>Some text</value>
+    </labels>
+    <labels>
+        <fullName>Thank_you_for_having_been_a_which_member</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>cancellation journey</shortDescription>
+        <value>Thank you for having been a Which? member. You’ll continue to have access to your account and to your</value>
+    </labels>
+    <labels>
+        <fullName>Thinking_of_buying_a_kitchen_appliance</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>1:1 Buying Advice</shortDescription>
+        <value>Thinking of buying a kitchen appliance but unsure which brand or model to go for? Our online advisers can help.
+        If we’ve tested it, we know exactly how good or bad it is and we can share the results with you so you can buy
+        smarter.</value>
+    </labels>
+    <labels>
+        <fullName>To_access_our_buying_advice</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>1:1 Buying Advice</shortDescription>
+        <value>To access our one-to-one buying advice simply talk to
+        an adviser by hitting the blue &apos;Chat with Adviser&apos; button on this screen, Mon-Fri 8:30am-6pm. You may experience longer wait times when
+        we’re busier.</value>
+    </labels>
+    <labels>
+        <fullName>We_dont_want_to_lose_you</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>cancellation journey</shortDescription>
+        <value>We don’t want to lose you as a Which? member – perhaps this offer will persuade you to stay:</value>
+    </labels>
+    <labels>
+        <fullName>WebsiteAndApp_halfPriceOffer</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>my_account_web_and_app_half_price_downgrade-offer</shortDescription>
+        <value>Only £3.99/mth for the next 6 months. So for roughly £1 a week you can continue to get full access to benefits below</value>
+    </labels>
+    <labels>
+        <fullName>ZuoraBasicError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ZuoraBasicError</shortDescription>
+        <value>There has been an error. Please contact your systems administrator.</value>
+    </labels>
+    <labels>
+        <fullName>ZuoraManualRefund</fullName>
+        <categories>Zuroa</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Zuora Manual Refund</shortDescription>
+        <value>There was an issue with processing this refund. This will be processed by the Finance team so no further action is needed. DD payments take 7-14 days to be refunded.</value>
+    </labels>
+    <labels>
+        <fullName>ZuoraRefundRefused</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ZuoraRefundRefused</shortDescription>
+        <value>This subscription is not eligible for a refund.</value>
+    </labels>
+    <labels>
+        <fullName>ZuoraRefundsError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ZuoraRefundsError</shortDescription>
+        <value>There has been an error with your Refund. Please pass this information to your Systems Administrator:</value>
+    </labels>
+    <labels>
+        <fullName>ZuoraRefundsExpiry</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ZuoraRefundsExpiry</shortDescription>
+        <value>Thank you. This subscription will be cancelled on Expiry.</value>
+    </labels>
+    <labels>
+        <fullName>ZuoraRefundsNoMatch</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ZuoraRefundsNoMatch</shortDescription>
+        <value>No eligible payments available to refund to the current payment method. Please process any refund manually.</value>
+    </labels>
+    <labels>
+        <fullName>ZuoraRefundsPartialError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ZuoraRefundsPartialError</shortDescription>
+        <value>Refund Amount&apos; cannot exceed &apos;Amount Available for Refund&apos;.</value>
+    </labels>
+    <labels>
+        <fullName>ZuoraRefundsPartialRefund</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ZuoraRefundsPartialRefund</shortDescription>
+        <value>A partial refund has already been processed. Please process the remaining value manually.</value>
+    </labels>
+    <labels>
+        <fullName>ZuoraRefundsSuccess</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ZuoraRefundsSuccess</shortDescription>
+        <value>Your refund has been successfully posted. The amount refunded is:</value>
+    </labels>
+    <labels>
+        <fullName>Zuora_API_Error</fullName>
+        <categories>Zuora Integration</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Zuora API Error</shortDescription>
+        <value>Error returned by Zuora API. The following status code was returned.</value>
+    </labels>
+    <labels>
+        <fullName>addressVerifyError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>addressVerifyError</shortDescription>
+        <value>We received the following error message. Please contact your Systems adminstrator:</value>
+    </labels>
+    <labels>
+        <fullName>addressVerifyNoResults</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>addressVerifyNoResults</shortDescription>
+        <value>Sorry, there were no results.</value>
+    </labels>
+    <labels>
+        <fullName>championing_consumers_costs_money</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>which-privacy-notice-url</shortDescription>
+        <value>We work hard to give our members the best value we can – and to make life simpler, fairer and safer for
+            everyone. Your subscription helps our charity to fight for what&apos;s right for all consumers, with free advice
+            and campaigns that make change happen for millions of people.</value>
+    </labels>
+    <labels>
+        <fullName>consentbodyagent</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>consentbodyagent</shortDescription>
+        <value>Please keep me updated about products and services from the &lt;a href=&quot;https://www.which.co.uk/help/terms-and-conditions/1948/general-terms#headline_5&quot;&gt;Which? Group&lt;/a&gt;</value>
+    </labels>
+    <labels>
+        <fullName>consentbodyexternal</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>consentbodyexternal</shortDescription>
+        <value>Please keep me updated about products and service form the Which? Group by: &lt;a href=&quot;https://www.google.com/&quot;&gt;google&lt;/a&gt;</value>
+    </labels>
+    <labels>
+        <fullName>consentheaderagent</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>consentheaderagent</shortDescription>
+        <value>My Marketing Consent</value>
+    </labels>
+    <labels>
+        <fullName>consentheaderexternal</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>consentheaderexternal</shortDescription>
+        <value>Please keep me updated about products and service form the Which? Group by: &lt;a href=&quot;https://www.google.com/&quot;&gt;google&lt;/a&gt;</value>
+    </labels>
+    <labels>
+        <fullName>current_subscription_header</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>current_subscription_header</shortDescription>
+        <value>Current Subscriptions</value>
+    </labels>
+    <labels>
+        <fullName>fullAccess_downgradeOffer</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>my_account_full_access_downgrade-offer</shortDescription>
+        <value>We have an alternative package that might better meet your needs Website &amp; App at £7.99/month</value>
+    </labels>
+    <labels>
+        <fullName>fullAccess_halfPriceOffer</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>my_account_full_access_downgrade-offer</shortDescription>
+        <value>Only £4.99/mth for the next 6 months. So for roughly £1 a week you can continue to get full access to benefits below</value>
+    </labels>
+    <labels>
+        <fullName>terms_and_conditions</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>cancellation journey</shortDescription>
+        <value>https://www.which.co.uk/help/terms-and-conditions/1955/your-which-membership</value>
+    </labels>
+    <labels>
+        <fullName>which_champions_consumers</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>which-privacy-notice-url</shortDescription>
+        <value>Your subscription helps to fund our charity&apos;s free consumer advice and campaigns so that we can make life simpler, fairer and safer for everyone.</value>
+    </labels>
+    <labels>
+        <fullName>which_privacy_notice</fullName>
+        <categories>Prechat</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>which-privacy-notice</shortDescription>
+        <value>Please note that we will record this chat and process your personal data in accordance with our</value>
+    </labels>
+    <labels>
+        <fullName>which_privacy_notice_url</fullName>
+        <categories>Prechat</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>which-privacy-notice-url</shortDescription>
+        <value>https://which.co.uk/help/our-policies-and-standards/1975/which-privacy-notice</value>
+    </labels>
+    <labels>
+        <fullName>you_about_to_cancel</fullName>
+        <categories>MyAccount</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>cancellation journey</shortDescription>
+        <value>You are about to cancel your current subscription. However, you can continue using your Full Access
+              subscription until 16th September 2016.
+              From then, you will no longer be able to access your account.
+
+              Please confirm if you would like to continue</value>
+    </labels>
+    <labels>
+        <fullName>Test_Deployment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Test Deployment</shortDescription>
+        <value>This is a label for deployment testing</value>
+    </labels>
+</CustomLabels>
